@@ -1,0 +1,20 @@
+.Product_top{
+    width: 250px;
+    height: 240px;
+    padding: 10px;
+margin: 20px;
+background-color: lightgrey;
+display: flex;
+justify-content: center;
+flex-direction: column;cursor: pointer;
+    .Image_Product img{
+    
+height: 200px;
+width: 100%;
+object-fit: cover;
+    }
+  .second_section{
+    height:50px;
+    padding: 0px 5px;
+  }
+}
